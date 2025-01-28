@@ -1315,70 +1315,79 @@ var styles = [ {
       "opacity" : 1.0,
       "target-arrow-color" : "rgb(64,64,64)",
       "width" : 2.0,
-      "target-arrow-shape" : "triangle"
+      "target-arrow-shape" : "data(interaction)"
     }
   }, {
     "selector" : "edge[relationshipType = 'editorial']",
     "css" : {
       "line-color" : "rgb(253,141,60)",
       "target-arrow-color" : "rgb(253,141,60)",
-      "source-arrow-color" : "rgb(253,141,60)"
+      "source-arrow-color" : "rgb(253,141,60)",
+      "target-arrow-shape" : "triangle"
     }
   }, {
     "selector" : "edge[relationshipType = 'print']",
     "css" : {
       "line-color" : "rgb(78,179,211)",
       "target-arrow-color" : "rgb(78,179,211)",
-      "source-arrow-color" : "rgb(78,179,211)"
+      "source-arrow-color" : "rgb(78,179,211)",
+      "target-arrow-shape" : "triangle"
     }
   }, {
     "selector" : "edge[relationshipType = 'paper']",
     "css" : {
       "line-color" : "rgb(161,217,155)",
       "target-arrow-color" : "rgb(161,217,155)",
-      "source-arrow-color" : "rgb(161,217,155)"
+      "source-arrow-color" : "rgb(161,217,155)",
+      "target-arrow-shape" : "triangle"
     }
   }, {
     "selector" : "edge[relationshipType = 'administrative']",
     "css" : {
       "line-color" : "rgb(239,59,44)",
       "target-arrow-color" : "rgb(239,59,44)",
-      "source-arrow-color" : "rgb(239,59,44)"
+      "source-arrow-color" : "rgb(239,59,44)",
+      "target-arrow-shape" : "triangle"
     }
   }, {
     "selector" : "edge[relationshipType = 'binding']",
     "css" : {
       "line-color" : "rgb(65,171,93)",
       "target-arrow-color" : "rgb(65,171,93)",
-      "source-arrow-color" : "rgb(65,171,93)"
+      "source-arrow-color" : "rgb(65,171,93)",
+      "target-arrow-shape" : "triangle"
     }
   }, {
     "selector" : "edge[relationshipType = 'illustration']",
     "css" : {
       "line-color" : "rgb(254,196,79)",
       "target-arrow-color" : "rgb(254,196,79)",
-      "source-arrow-color" : "rgb(254,196,79)"
+      "source-arrow-color" : "rgb(254,196,79)",
+      "target-arrow-shape" : "triangle"
     }
   }, {
     "selector" : "edge[relationshipType = 'type']",
     "css" : {
       "line-color" : "rgb(8,88,158)",
       "target-arrow-color" : "rgb(8,88,158)",
-      "source-arrow-color" : "rgb(8,88,158)"
+      "source-arrow-color" : "rgb(8,88,158)",
+      "target-arrow-shape" : "triangle"
     }
   }, {
     "selector" : "edge[relationshipType = 'interpersonal']",
     "css" : {
       "line-color" : "rgb(122,1,119)",
       "target-arrow-color" : "rgb(122,1,119)",
-      "source-arrow-color" : "rgb(122,1,119)"
+      "source-arrow-color" : "rgb(122,1,119)",
+      "target-arrow-shape" : "triangle"
     }
   }, {
     "selector" : "edge[relationshipType = 'authorial']",
     "css" : {
       "line-color" : "rgb(255,237,160)",
       "target-arrow-color" : "rgb(255,237,160)",
-      "source-arrow-color" : "rgb(255,237,160)"
+      "source-arrow-color" : "rgb(255,237,160)",
+      "target-arrow-shape" : "triangle"
     }
   }, {
     "selector" : "edge:selected",
