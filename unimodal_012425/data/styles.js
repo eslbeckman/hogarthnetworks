@@ -1315,7 +1315,7 @@ var styles = [ {
       "opacity" : 1.0,
       "target-arrow-color" : "rgb(64,64,64)",
       "width" : 2.0,
-      "target-arrow-shape" : "data(interaction)"
+      "target-arrow-shape" : "triangle"
     }
   }, {
     "selector" : "edge[relationshipType = 'editorial']",
