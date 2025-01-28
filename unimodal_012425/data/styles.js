@@ -1322,14 +1322,14 @@ var styles = [ {
     "css" : {
       "line-color" : "rgb(253,141,60)",
       "target-arrow-color" : "rgb(253,141,60)",
-      "source-arrow-color" : "rgb(253,141,60)"
+      "source-arrow-color" : "rgb(253,141,60)",
     }
   }, {
     "selector" : "edge[relationshipType = 'print']",
     "css" : {
       "line-color" : "rgb(78,179,211)",
       "target-arrow-color" : "rgb(78,179,211)",
-      "source-arrow-color" : "rgb(78,179,211)"
+      "source-arrow-color" : "rgb(78,179,211)",
     }
   }, {
     "selector" : "edge[relationshipType = 'paper']",
