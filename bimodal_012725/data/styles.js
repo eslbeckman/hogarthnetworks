@@ -419,7 +419,7 @@ var styles = [ {
   }, {
     "selector" : "node[type = 'book']",
     "css" : {
-      "background-color" : "rgb(191,193,236)"
+      "background-color" : "rgb(133,235,242)"
     }
   }, {
     "selector" : "node:selected",
