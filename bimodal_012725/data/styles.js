@@ -414,12 +414,12 @@ var styles = [ {
   }, {
     "selector" : "node[type = 'person']",
     "css" : {
-      "background-color" : "rgb(217,217,217)"
+      "background-color" : "rgb(133,235,242)"
     }
   }, {
     "selector" : "node[type = 'book']",
     "css" : {
-      "background-color" : "rgb(133,235,242)"
+      "background-color" : "rgb(217,217,217)"
     }
   }, {
     "selector" : "node:selected",
