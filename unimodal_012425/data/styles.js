@@ -1280,7 +1280,7 @@ var styles = [ {
       "background-opacity" : 1.0,
       "shape" : "roundrectangle",
       "height" : 35.0,
-      "background-color" : "rgb(217,217,217)",
+      "background-color" : "rgb(133,235,242)",
       "width" : 75.0,
       "border-opacity" : 1.0,
       "border-color" : "rgb(115,115,115)",
