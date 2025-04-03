@@ -2,4 +2,4 @@ This repository hosts the networks for the Hogarth Networks project by Emma Beck
 
 This data was collected from *A Checklist of the Hogarth Press, 1917-1946* by J. Howard Woolmer and Mary E. Gaither (Revere, PA: Woolmer Brotherson Ltd., 1986), available on [Internet Archive](https://archive.org/details/checklistofhogar0000wool/mode/2up). 
 
-There are two networks in this repository: a unimodal network, where all the nodes are people, and a bimodal network, where the nodes are both people and books.
+There are two networks in this repository: a [unimodal network](https://eslbeckman.github.io/hogarthnetworks/unimodal_012425/index.html#/), where all the nodes are people, and a [bimodal network](https://eslbeckman.github.io/hogarthnetworks/bimodal_012725/index.html#/), where the nodes are both people and books.
